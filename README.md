@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web development, Graphic designing**
 
-- 🤝 I’m looking for help with **My teammates**
+- 🤝 I want to help everyone with **My teammates**
 
 - 💬 Ask me about **Programing, DSA**
 
